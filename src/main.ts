@@ -12,13 +12,22 @@ import {
 	MyPluginSettings,
 	SampleSettingTab,
 } from './settings';
+const DAY_FILE_MAP: Record<number, string> = {
+	0: 'Jesus Christ/Prayer/The Glorious Mysteries.md',    // Sunday
+	1: 'Jesus Christ/Prayer/The Joyful Mysteries.md',    // Monday
+	2: 'Jesus Christ/Prayer/The Sorrowful Mysteries.md',   // Tuesday
+	3: 'Jesus Christ/Prayer/The Glorious Mysteries.md', // Wednesday 
+	4: 'Jesus Christ/Prayer/The Luminous Mysteries.md',  // Thursday 
+	5: 'Jesus Christ/Prayer/The Sorrowful Mysteries.md',    // Friday 
+	6: 'Jesus Christ/Prayer/The Joyful Mysteries.md',  // Saturday 
+};
 //import {
 //	PRAY_ICON,
 //} from "/constants";
 
 // Remember to rename these classes and interfaces!
 
-export default class MyPlugin extends Plugin {
+export default class RosaryPlugin extends Plugin {
 	settings!: MyPluginSettings;
 
 	async onload() {
@@ -32,10 +41,17 @@ export default class MyPlugin extends Plugin {
 		// modified from < a href = "https://www.flaticon.com/free-icons/catholic" title = "catholic icons" > Catholic icons created by Magnific - Flaticon < /a>
 
 		// This creates an icon in the left ribbon.
-		this.addRibbonIcon('rosary2', 'Sample', (_evt: MouseEvent) => {
-			// Called when the user clicks the icon.
-			new Notice('This is a notice!');
+		this.addRibbonIcon('rotate-cw', "Open today's rosary", () => {
+			this.openTodaysRosary();
 		});
+
+		// Command (so you can bind a hotkey, or run via command palette)
+		this.addCommand({
+			id: 'open-todays-rosary',
+			name: "Open today's rosary",
+			callback: () => this.openTodaysRosary(),
+		});
+
 
 		// This adds a status bar item to the bottom of the app. Does not work on mobile apps.
 		const statusBarItemEl = this.addStatusBarItem();
@@ -95,6 +111,19 @@ export default class MyPlugin extends Plugin {
 		this.registerInterval(
 			window.setInterval(() => console.log('setInterval'), 5 * 60 * 1000),
 		);
+	}
+	
+	async openTodaysRosary() {
+		const dayIndex = new Date().getDay(); // 0 = Sunday ... 6 = Saturday
+		const path = DAY_FILE_MAP[dayIndex];
+
+		const file = this.app.vault.getAbstractFileByPath(path);
+
+		if (file instanceof TFile) {
+			await this.app.workspace.getLeaf(true).openFile(file);
+		} else {
+			new Notice(`Rosary file not found: ${path}`);
+		}
 	}
 
 	onunload() {}
