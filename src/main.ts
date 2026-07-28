@@ -12,15 +12,35 @@ import {
 	MyPluginSettings,
 	SampleSettingTab,
 } from './settings';
-const DAY_FILE_MAP: Record<number, string> = {
-	0: 'Jesus Christ/Prayer/The Glorious Mysteries.md',    // Sunday
-	1: 'Jesus Christ/Prayer/The Joyful Mysteries.md',    // Monday
-	2: 'Jesus Christ/Prayer/The Sorrowful Mysteries.md',   // Tuesday
-	3: 'Jesus Christ/Prayer/The Glorious Mysteries.md', // Wednesday 
-	4: 'Jesus Christ/Prayer/The Luminous Mysteries.md',  // Thursday 
-	5: 'Jesus Christ/Prayer/The Sorrowful Mysteries.md',    // Friday 
-	6: 'Jesus Christ/Prayer/The Joyful Mysteries.md',  // Saturday 
+import { getLiturgicalSeason } from './liturgical';
+import { MysteryType } from './settings';
+
+const MYSTERY_FILE: Record<MysteryType, string> = {
+	joyful: 'Jesus Christ/Prayer/The Joyful Mysteries.md',
+	sorrowful: 'Jesus Christ/Prayer/The Sorrowful Mysteries.md',
+	glorious: 'Jesus Christ/Prayer/The Glorious Mysteries.md',
+	luminous: 'Jesus Christ/Prayer/The Luminous Mysteries.md',
 };
+
+function getTodaysMystery(settings: MyPluginSettings): MysteryType {
+	const day = new Date().getDay(); // 0 = Sunday
+
+	switch (day) {
+		case 1: return 'joyful';      // Monday
+		case 2: return 'sorrowful';   // Tuesday
+		case 3: return 'glorious';    // Wednesday
+		case 4: return settings.thursdayMystery; // Thursday: Joyful or Luminous
+		case 5: return 'sorrowful';   // Friday
+		case 6: return settings.thursdayMystery === 'luminous' ? 'joyful' : 'glorious'; // Saturday
+		case 0: default: {
+			if (settings.sundayMode === 'manual') return settings.manualSundayMystery;
+			const season = getLiturgicalSeason();
+			if (season === 'advent' || season === 'christmas') return 'joyful';
+			if (season === 'lent') return 'sorrowful';
+			return 'glorious';
+		}
+	}
+}
 //import {
 //	PRAY_ICON,
 //} from "/constants";
@@ -108,14 +128,14 @@ export default class RosaryPlugin extends Plugin {
 		});
 
 		// When registering intervals, this function will automatically clear the interval when the plugin is disabled.
-		this.registerInterval(
-			window.setInterval(() => console.log('setInterval'), 5 * 60 * 1000),
-		);
+		//this.registerInterval(
+		//	window.setInterval(() => console.log('setInterval'), 5 * 60 * 1000),
+		//);
 	}
 	
 	async openTodaysRosary() {
-		const dayIndex = new Date().getDay(); // 0 = Sunday ... 6 = Saturday
-		const path = DAY_FILE_MAP[dayIndex];
+		const mystery = getTodaysMystery(this.settings);
+		const path = MYSTERY_FILE[mystery];
 
 		const file = this.app.vault.getAbstractFileByPath(path);
 
