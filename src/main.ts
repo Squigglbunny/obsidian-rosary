@@ -5,7 +5,8 @@ import {
 	Modal,
 	Notice,
 	Plugin,
-    addIcon,
+	TFile,
+	addIcon,
 } from 'obsidian';
 import {
 	DEFAULT_SETTINGS,
