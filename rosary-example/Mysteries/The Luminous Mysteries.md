@@ -16,27 +16,16 @@ _Matthew 3:13-17 –_ Then Jesus came from Galilee to John at the Jordan to be 
 
 ### Points for Meditation
 
-- At the beginning, the Father grants his Son the consolation of his voice. He won’t on the cross.
-- “The baptism of Jesus is on his part the acceptance and inauguration of his mission as God’s Suffering Servant” (Catechism, 536).
-- In baptism, Christ “procured for us a ‘shortcut’ to salvation” (Catechism, 518).
-- “Already he is coming to “fulfill all righteousness’, that is, he is submitting himself entirely to his Father’s will” (Catechism, 536).
-- “The Christian must … go down into the water with Jesus in order to rise with him, be reborn of water and the Spirit so as to become the Father’s beloved son in the Son and walk in newness of life” (Catechism, 537).
-- John didn’t point to anything but Christ: He was created for that. That’s what I was created for, too.
-- For John, only Christ’s standards mattered, not the world’s. What are my priorities?
-- Water is necessary for life; similarly, baptism is necessary for eternal life. I should be anxious to give that life to others.
-- People were attracted to John, despite his appearance, because of his fidelity to God and his principles.
-- John isn’t afraid to challenge people to change, and so he betters their lives and is remembered by history.
-1. John is baptizing in the Jordan proclaiming a baptism of repentance.
-2. “I am the voice of one crying in the desert, make straight the way of the Lord.”
-3. “One mightier than I is coming after me.”
-4. “I have baptized you with water, He will baptize you with the Holy Spirit.”
-5. Seeing Jesus, John exclaims: “Behold the Lamb of God.”
-6. Against protests of his unworthiness, John baptizes Jesus in the Jordan.
-7. After Jesus’ baptism a voice from Heaven: “This is my beloved Son in whom I am well pleased.”
-8. The Spirit descends upon Jesus in the form of a dove.
-9. In this heavenly manifestation is instituted the sacrament of baptism.
-10. The divine Trinity is manifested: the voice of the Father is heard as the Spirit descends upon the Son.
-- In Baptism, Christ “became ‘sin’ for our sake (cf. 2 Cor 5:21),” the Father proclaims him the Beloved Son and the Holy Spirit “descends on him to invest him with the mission which he is to carry out.”
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Openness to the Holy Spirit**
 
@@ -56,28 +45,16 @@ _John 2:1-11 –_ On the third day there was a wedding in Cana in Galilee, and 
 
 ### Points for Meditation
 
-- Here we find “the great maternal counsel, which Mary addresses to the Church of every age: ‘Do whatever he tells you’” (Pope John Paul II, _Rosarium Virginis Mariae_, 21).
-- “What is this to me?” is not so much a rebuke as a recognition that a public miracle will lead to Jesus’ death.
-- From the beginning, Christ imparts the faith to his disciples through Mary, “the first among believers” (_Rosarium, 21)._
-- Jesus at Cana “gives a sign, in which he proclaims his hour, the hour of the wedding-feast, the hour of union between God and man” (Pope Benedict XVI, Homily, Sept. 11 2006).
-- Jesus “transforms the human wedding-feast into an image of the divine wedding-feast … in which he gives us every good thing, represented by the abundance of wine” (Pope Benedict XVI, 2006 Homily).
-- Christ “revealed his glory” by making wine. He also reveals his glory to us by enriching our lives in very human ways.
-- “His disciples began to believe in him” based on this miracle. We see a greater miracle at each Mass.
-- Christ chose this for his first public miracle in part to show his regard for marriage.
-- If we bring our needs to Mary, she will take care of them with her son.
-- Christ announced his ministry in the Temple, then began it in Cana. My Christian mission is launched in Church .. but it takes place in the world.
-- Christ transforms ordinary things (water) into extraordinary things (wine). He can transform my marriage.
-1. Jesus, His Mother and disciples were invited to a wedding in Cana.
-2. During the wedding feast the wine ran short.
-3. Mary turned to Jesus: “They have no wine.”
-4. Jesus replied: “What would you have Me do? My hour has not yet come.”
-5. Mary said to the waiters: “Do whatever He tells you.”
-6. There were six stone water jars, each holding fifteen to twenty gallons.
-7. Jesus bids the waiters to fill the jars with water, and then draw some out and take it to the chief steward.
-8. The chief steward said to the groom: “Every man serves the good wine first… but you have saved the good wine until now.”
-9. At Mary’s request, Jesus worked His first miracle.
-10. By His presence, Christian marriage was raised to the dignity of a Sacrament.
-- At the wedding at Cana, Christ, by transforming water into wine, “opens the hearts of the disciples to faith, thanks to the intervention of Mary, the first among believers.”
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **To Jesus through Mary**  
 
@@ -97,27 +74,16 @@ _Mark 2:3-12 –_ Unable to get near Jesus because of the crowd, they opened up
 
 ### Points for Meditation
 
-- “The kingdom of heaven was inaugurated on earth by Christ. … The Church is the seed and beginning of this kingdom. Its keys are entrusted to Peter” (Catechism, 567)
-- Christ’s whole early life – his words and deeds, his silences and sufferings, indeed his manner of being and speaking – tell us who God is and what he is like (Catechism, 561).
-- “To become a child in relation to God is the condition for entering the kingdom. For this, we must humble ourselves and become little” (Catechism, 561).
-- “Everyone is called to enter the kingdom” (Catechism, 543)
-- One must enter the kingdom, that is, become a disciple of Christ, in order to “know its secrets.” “Outside” it, everything remains enigmatic (Catechism, 546).
-- “Jesus invites sinners to the table of the kingdom” (Catechism, 545) and “forgives the sins of all who draw near him in humble trust” (_Rosarium,_ 21)
-- Christ is king of everything: truth, my leisure time, the business world, my family. Do I let him reign?
-- I pray “Thy kingdom come” but the next part of the Our Father demands something of me: “Thy will be done.”
-- “[T]here is no human activity – even in secular affairs – which can be withdrawn from God’s dominion” (_Lumen Gentium,_ 36).
-- Praying “Thy kingdom come” “means working to enrich American society and culture with the beauty and truth of the Gospel, and never losing sight of that great hope which gives meaning and value to all the other hopes which inspire our lives” (Pope Benedict XVI, Yankee Stadium, 2008).
-1. “Repent, for the kingdom of God is at hand.”
-2. “My kingdom is not of this world.”
-3. “Unless a man be born again of water and the Spirit, he cannot enter the kingdom of heaven.”
-4. “Whoever does not accept the kingdom of God as a little child will not enter into it.”
-5. “I have come to call sinners, not the just.”
-6. “Love your enemies, pray for those who persecute you.”
-7. “Blessed are the poor in spirit, for theirs is the kingdom of heaven.”
-8. “Blessed are they who hunger and thirst for justice, for they shall be satisfied.”
-9. “Blessed are they who suffer persecution for justice’ sake, for theirs is the kingdom of heaven.”
-10. “You are Peter, and upon this rock I will build My church… I will give you the keys of the kingdom of heaven.”
-- With the preaching of the kingdom and the call to conversion, Christ initiates “the ministry of mercy,” which continues through “the Sacrament of Reconciliation which he has entrusted to his Church.”
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Christian Witness and Conversion**
 
@@ -137,27 +103,16 @@ _Matthew 17 1-9_ – After six days Jesus took Peter, James, and John his broth
 
 ### Points for Meditation
 
-- “Christ’s Transfiguration aims at strengthening the apostles’ faith in anticipation of his passion: The ascent on the high mountain prepares for the ascent to Calvary” (Catechism, 568).
-- “For a moment Jesus discloses his divine glory, confirming Peter’s confession” (Catechism, 555).
-- “Moses and Elijah had seen God’s glory on the mountain; the law and the prophets had announced the Messiah’s sufferings” (Catechism, 555).
-- “The whole Trinity appeared: the Father in the voice, the Son in the man, the Spirit in the shining cloud” (Catechism, 555).
-- “The Transfiguraion gives us a foretaste of Christ’s glorious coming … But it also recalls that ‘it is through many persecutions that we must enter the kingdom of God’“ (Catechism, 556).
-- “According to the senses, the light of the sun is the most intense ever known in nature. But according to the spirit, the disciples saw for a short time a brightness more intense: that of the divine glory of Jesus” (Pope Benedict XVI, Angelus, 2011).
-- The three apostles were rewarded for 1)saying Yes to Christ’s invitation, 2) praying, and 3) staying close to him.
-- They saw who Christ really was. I saw the beauty of who my spouse really is. do I guard that “Tabor vision”? or do I focus on my spouse’s falts? (cf. von Hildebrand)
-- Think of the Transfiguration when praying the Glory Be prayer.
-- St. John wrote that if your love for God is cold you should recall to your mind a time when it was fresh and exciting so that your passion will return.
-1. Jesus took Peter, James and John up a high mountain to pray.
-2. Jesus was transfigured before them.
-3. “His face became as dazzling as the sun, his clothes as radiant as light.”
-4. This was to fortify their faith to withstand the coming tragedy of the Passion.
-5. Jesus foresaw the ‘scandal of the cross,’ and prepared them for it by this manifestation of His glory.
-6. Moses and Elias (representing the Law and the prophets of the Old Testament) were conversing with Jesus about His Passion.
-7. “Do not think I have come to destroy the Law or the Prophets… but to fulfill them.”
-8. From a cloud came a voice: “This is my beloved Son, listen to Him.”
-9. Jesus admonishes them not to tell the vision to anyone until the Son of Man rises from the dead.
-10. We too will behold the transfigured Jesus on the Last Day.
-- For St. John Paul II, the Transfiguration is the “mystery of light _par excellence_” since “the glory of the Godhead shines forth from the face of Christ as the Father commands the astonished Apostles to ‘listen to him.’”
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Spiritual Courage**
 
@@ -177,27 +132,16 @@ _1 Corinthians 11: 23-29 –_ For I received from the Lord what I also handed o
 
 ### Points for Meditation
 
-- God said, “Let there be light.” And there was. Here he says, “This is my body.” And it is.
-- “Jesus freely offered himself for our salvation. During the Last Supper, he both symbolized this offering and made it really present” (Catechism, 621).
-- “Jesus includes the apostles in his own offering and bids them perpetuate it. By doing so, the Lord institutes his apostles as priests” (Catechism, 611).
-- Eleven of Christ’s first 12 priests betrayed or abandoned him.
-- Pope Benedict XVI called the Eucharist “a gift of love that is truly worth more than all the rest of life.”
-- Through real communion with his body and blood, “Christ enables us to live in him all that he himself lived, and he lives it in us” (Catechism, 521).
-- If I were given a hammer and nails, or a sword, at Mass, the message would be obvious: Build something, or fight. I’m given Christ. I am to bring him to the world.
-- Christ is present in the Eucharist whether I feel his presence or not – but if I forgive more, pray more and serve more, I will “feel” his presence more, too.
-- Heaven is like a big, joyous wedding feast. And it starts at Mass.
-- The Eucharist is the encounter with Christ par excellence. Who was the last person I invited back to Mass?
-1. I have eagerly desired to eat this Passover with you before I suffer.
-2. Jesus took bread, blessed it: “Take and eat, this is My Body.”
-3. Taking the wine: “This cup is the new covenant in my Blood, shed for you.”
-4. At that eucharistic meal, Jesus celebrated the first Mass.
-5. At every Mass the sacrifice of Calvary is made present.
-6. At the Last Supper Jesus instituted the sacrament of Holy Orders to perpetuate this sacrifice.
-7. “Whoever eats my flesh and drinks my blood remains in me and I in him.”
-8. The Eucharist is a sacrifice inasmuch as it is offered up, and a sacrament inasmuch as it is received.
-9. In the Mass we offer ourselves to God, and God gives himself to us.
-10. The Mass will be fruitful in the measure of our surrender to the Father.
-- The institution of the Eucharist is also a mystery of light because “Christ offers his body and blood as food under the signs of bread and wine, and testifies ‘to the end’ his love for humanity (Jn 13:1), for whose salvation he will offer himself in sacrifice.”
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Love of Our Eucharistic Lord**
 

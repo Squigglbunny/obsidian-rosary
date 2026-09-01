@@ -14,26 +14,16 @@ _Luke 1:28-35, 38_ – And coming to her, he said, “Hail, favored one! The Lo
 
 ### Points for Meditation
 
-- God makes our redemption dependent on Mary’s free decision (Catechism, No. 488).
-- Mary said “Yes “in the name of all human nature” (Catechism, No. 511).
-- What Eve lost through disobedience, Mary gained again by obedience (Catechism, No. 494)
-- This is the moment of the Incarnation: The Word becomes flesh. God becomes a tiny embryo.
-- “The first man was from earth, a man of the dust; the second man is from heaven” (Catechism, 504).
-- Since Christians are the mystical body of Christ, Mary became our mother, too, at the Annunciation (Catechism, 973).
-- As he does with Mary, God wants to become intimately and closely associated with me.
-- Messengers of God, in daily circumstances and opportunities, come to me, too. I need only pay attention.
-- Mary says Yes to God without knowing the whole picture – what will happen and how it all will end. I shouldn’t demand God give me the whole picture, either.
-- God became an embryo – I shouldn’t refuse opportunities that would be good even if I think them “beneath me.”
-1. The time for the Incarnation is at hand.
-2. Of all women God prepared Mary from her conception to be the Mother of the Incarnate Word.
-3. The Angel Gabriel announces: “Hail, full of grace! The Lord is with thee.”
-4. Mary wonders at this salutation.
-5. The Angel assures her: “Fear not . . . you shall conceive in your womb, and give birth to a Son.”
-6. Mary is troubled for she has made a vow of virginity.
-7. The Angel answers that she will conceive by the power of the Holy Spirit, and her Son will be called the Son of God.
-8. The Incarnation awaits Mary’s consent.
-9. Mary answers: “Behold the handmaid of the Lord. Be it done unto me according to your word.”
-10. The Word was made flesh and dwelt among us.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Humility**  
 
@@ -52,26 +42,16 @@ _Luke 1:39-48 –_ During those days Mary set out and traveled to the hill coun
 
 ### Points for Meditation
 
-- Mary is quick to aid Elizabeth; she will be quick to aid me.
-- The practice of authentic Christian charity is the essence of Christianity.
-- Elizabeth calls the unborn Jesus “Lord” (and John the Baptist witnesses to him) at the very beginning of Mary’s pregnancy.
-- The angel Gabriel’s words and Elizabeth’s together make up the bulk of the Hail Mary prayer.
-- Mary is humble but says the Magnificat (which begins in the passage given here). The humble recognize their giftedness and worth, which come from God.
-- Christ is the center of these scenes, but he stays hidden, unseen, as he does in our lives.
-- Like Elizabeth, we should be eager to recognize Christ in others.
-- Like Mary, we should bring Christ into the homes of others.
-- Mary’s first Christian apostolate was doing household chores. Mostly, our Christian life means small things done with love.
-- It is Christ in her that makes Mary attractive and that draws people’s attention. He wants to use me in the same way.
-1. Mary’s cousin Elizabeth conceived a son in her old age… for nothing is impossible with God.
-2. Charity prompts Mary to hasten to visit Elizabeth in the hour of her need.
-3. The journey to Elizabeth’s home is about eighty miles requiring four or five days.
-4. Though long and arduous, the journey is joyous, for Mary bears with her the Incarnate Word.
-5. At Mary’s salutation, John the Baptist is sanctified in his mother’s womb.
-6. Elizabeth exclaims: “Blessed are you among women, and blessed is the fruit of your womb.”
-7. “How have I deserved that the mother of my Lord should come to me?”
-8. “Blessed is she who believed that the Lord’s words to her would be fulfilled.”
-9. Mary replies: “My soul proclaims the greatness of the Lord, and my spirit finds joy in God my Savior.”
-10. Mary serves her cousin in all humility for three months until the birth of John the Baptist.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Love of Neighbor**
 
@@ -89,26 +69,16 @@ _Luke 1:39-48 –_ During those days Mary set out and traveled to the hill coun
 
 ### Points for Meditation
 
-- Mary is quick to aid Elizabeth; she will be quick to aid me.
-- The practice of authentic Christian charity is the essence of Christianity.
-- Elizabeth calls the unborn Jesus “Lord” (and John the Baptist witnesses to him) at the very beginning of Mary’s pregnancy.
-- The angel Gabriel’s words and Elizabeth’s together make up the bulk of the Hail Mary prayer.
-- Mary is humble but says the Magnificat (which begins in the passage given here). The humble recognize their giftedness and worth, which come from God.
-- Christ is the center of these scenes, but he stays hidden, unseen, as he does in our lives.
-- Like Elizabeth, we should be eager to recognize Christ in others.
-- Like Mary, we should bring Christ into the homes of others.
-- Mary’s first Christian apostolate was doing household chores. Mostly, our Christian life means small things done with love.
-- It is Christ in her that makes Mary attractive and that draws people’s attention. He wants to use me in the same way.
-1. Joseph and Mary go to Bethlehem to comply with the decree of Caesar Augustus.
-2. The hour for Mary to give birth is near, but there is no room in the inn.
-3. In the stillness of the night, the Savior is born in a cave, Mary remaining a Virgin.
-4. She wraps Him in swaddling clothes and lays Him in a manger.
-5. In unspeakable joy Mary gathers to her bosom the Flower of her virginity.
-6. Jesus enters the world in poverty to teach the lesson of detachment from earthly things.
-7. The angel announces to the shepherds: “Today there is born to you in the town of David a Savior, Who is Christ the Lord.”
-8. The angelic chorus sing: “Glory to God in the highest, and peace to His people on earth.”
-9. The shepherds come to the stable to pay homage to the Infant Jesus.
-10. The Magi come to adore the Holy Child and offer Him gifts.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Detachment**
 
@@ -126,26 +96,16 @@ _Luke 2:25-35_ – Now there was a man in Jerusalem whose name was Simeon. This
 
 ### Points for Meditation
 
-- “The presentation of Jesus in the Temple shows him to be the firstborn son who belongs to the Lord” (Catechism, 529).
-- Simeon’s faith allowed him to recognize Christ.
-- “The sword of sorrow predicted for Mary announces Christ’s cross” (Catechism, 529). Simeon foretells pain for Christ – and his followers.
-- Trust in God’s promises sustained Simeon.
-- Christ’s religious life was that of a Jew obedient to the law (Catechism, 31).
-- Joseph’s offering was a poor man’s alternative to a lamb. God wants me to sacrifice even in small things, too.
-- Simeon was content after one glimpse of Christ. The Eucharist gives me many glimpses.
-- This encounter with Christ takes place in the Temple. For us, it happens in the Church.
-- I should present Christ in the “temple of the Holy Spirit,” my body.
-- Anna, in the scene that follows this passage, “Talked about the child to all.” My encounters with Christ should lead to evangelization.
-1. Observing the law of Moses they take Jesus to the Temple to present Him to the Lord.
-2. According to the Law the firstborn male child of every family should be consecrated to the Lord.
-3. Mary offers her Son to the Father, then ransoms Him back at the price paid by the poor.
-4. Jesus is not subject to the law of Moses, yet to teach obedience, submits to it.
-5. Mary is not subject to the law of purification, yet in humility she submits to it.
-6. God had revealed to Simeon that he would not see death until he had seen the Messiah.
-7. Recognizing the Child, he prays: “Now you can dismiss your servant in peace. You have fulfilled your word.”
-8. “This Child is destined to be the downfall and rise of many in Israel, a sign that will be opposed.”
-9. And to Mary Simeon reveals: “And your own soul a sword shall pierce.”
-10. After they fulfill all the Law requires they return to Nazareth.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Obedience**
 
@@ -163,26 +123,16 @@ _Luke 2:41-51_ – Each year his parents went to Jerusalem for the feast of Pas
 
 ### Points for Meditation
 
-- Joseph and Mary assumed Jesus was with members of their close-knit extended family in which cousins were “brothers.”
-- Here Jesus lets us catch a glimpse of the mystery of his total consecration to his mission: “I must be about my Father’s work” (Catechism, 534).
-- “Even the closest of human relationships are challenged by the absolute demands of the Kingdom” (John Paul II, _Rosarium Virginis Mariae_, 20)
-- Jesus’ obedience to his mother and legal father fulfills the fourth commandment perfectly and mirrors his obedience to his Father in heaven” (Catechism, 532)
-- In the hidden years of Jesus we learn the importance of: Silence, family life, work and the ordinary events of daily life (Catechism, 533).
-- The holy Family made a pilgrimage to Jerusalem every year. Do I take my family on special trips to holy places?
-- Feel like you’ve lost Christ? You can always find him in the tabernacle.
-- Jesus imparts wisdom to the rabbis who listen in the Temple. He will give me wisdom if I spend time with him in the tabernacle.
-- Mary’s question is direct, simple and honest: “Why have you done this to us?” our prayers should be direct, simple and honest.
-- Joseph and Mary “do not understand” Jesus’ answer, and yet they accept it (Catechism, 534). Do I accept, or demand to know it all up front?
-1. When Jesus is twelve years old, He goes with His parents to Jerusalem for the feast of the Passover.
-2. After the feast of the Passover, Joseph and Mary unknowingly set out for Nazareth without Jesus.
-3. At the end of the first day’s journey they discover Jesus is missing.
-4. His parents return immediately looking for Him.
-5. This loss causes grief and anxiety beyond our understanding to the hearts of Mary and Joseph.
-6. On the third day, they find Jesus in the Temple among the Doctors who were astonished at His wisdom.
-7. Mary: “Son, why have you done this to us? Your father and I have been searching for You in sorrow.”
-8. Jesus: “Why did you search for Me? Did you not know that I must be about My Father’s business?”
-9. Jesus goes down with them to Nazareth, and is subject to them.
-10. Mary keeps all these things in her heart.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 Spiritual Fruit: **Perseverance**
 
