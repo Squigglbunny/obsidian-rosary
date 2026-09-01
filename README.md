@@ -1,92 +1,62 @@
-# Obsidian Sample Plugin
+# Obsidian Rosary
 
-This is a sample plugin for Obsidian (https://obsidian.md).
+> _“Continue to pray the Rosary every day.”_
+> 
+> Our Lady of Fatima to Sr. Lucia dos Santos
 
-This project uses TypeScript to provide type checking and documentation.
-The repo depends on the latest plugin API (obsidian.d.ts) in TypeScript Definition format, which contains TSDoc comments describing what it does.
+Opens today's Rosary in Obsidian. 
+## Description
+In recent times the Mother of God has appeared in various parts of the world and asked for the recitation of the Rosary. 
+This plugin adds a sidebar and a shortcut to open today's Rosary, depending on the day of the week. By default, it uses the recitation of the Rosary suggested by Pope Saint John Paul II: the **JOYFUL** mysteries on Monday and Saturday, the **LUMINOUS** on Thursday, the **SORROWFUL** on Tuesday and Friday, and the **GLORIOUS** on Wednesday and Sunday (with the exceptions of  Sundays of Advent and Christmas – the **JOYFUL**; Sundays of Lent – the **SORROWFUL**).
 
-This sample plugin demonstrates some of the basic functionality the plugin API can do.
 
-- Adds a ribbon icon, which shows a Notice when clicked.
-- Adds a command "Open modal (simple)" which opens a Modal.
-- Adds a plugin setting tab to the settings page.
-- Registers a global click event and outputs a Notice on click.
-- Registers a global interval which logs 'setInterval' to the console.
+## Usage
+### Manual Installation
+Here's how you can install manually:
+1. Download the `main.js`, `styles.css` and `manifest.json`.
+2. Go to the `/.obsidian/plugins` folder of your Obsidian vault. Create a folder named `/obsidian-rosary` there.
+3. Put the downloaded files into the `/obsidian-rosary` folder.
+4. Restart Obsidian.
+### Plugin Settings
+#### Mysteries Folder
+Points to the folders where your mystery files are contained. File name be titled `The Glorious Mysteries`, `The Joyful Mysteries`, `The Sorrowful Mysteries`, and `The Luminous Mysteries` respectively.
+#### Thursday Mystery
+Option to pray the Luminous Mysteries, [added by St. John Paul II](https://www.ewtnnews.com/vatican/the-reasons-st-john-paul-ii-gave-for-adding-the-luminous-mysteries-to-the-rosary), or the Joyful Mysteries. 
+#### Sunday Mystery
+Option to follow the liturgical calendar (Advent/Christmas → Joyful, Lent → Sorrowful, otherwise → Glorious) or to set it manually.
 
-## First time developing plugins?
+## Known Issues
+- Setting Rosary path can be finnicky - typing the path helps.
 
-Quick starting guide for new plugin devs:
+## Info on the Rosary
+The Rosary is a twofold prayer - it is both vocal and mental. While the lips pronounce the words of the Hail Mary (vocal prayer), the mind should reflect (mental prayer) on the mystery of the Rosary that has been announced.
+### The Mysteries (Wikipedia)
+The Mysteries of the Rosary are meditations on episodes in the life and death of Jesus from the Annunciation to the Ascension and beyond. These are traditionally grouped by fives into themed sets known as the _Joyful_ (or _Joyous_) _Mysteries_, the _Sorrowful Mysteries_, and the _Glorious Mysteries_. Pope John Paul II recommended an additional set called the _Luminous Mysteries_ (or the "Mysteries of Light") in his apostolic letter *Rosarium Virginis Mariae* in October 2002.
+##### Joyful Mysteries
+1. [The Annunciation](https://en.wikipedia.org/wiki/Annunciation "Annunciation"). Fruit of the Mystery: Humility.
+2. [The Visitation](https://en.wikipedia.org/wiki/Visitation_\(Christianity\) "Visitation (Christianity)"). Fruit of the Mystery: Love of Neighbor.
+3. [The Birth of Jesus](https://en.wikipedia.org/wiki/Nativity_of_Jesus "Nativity of Jesus"). Fruit of the Mystery: Poverty, Detachment from the things of the world, Contempt of Riches, Love of the Poor.
+4. [The Presentation of Jesus at the Temple](https://en.wikipedia.org/wiki/Presentation_of_Jesus_at_the_Temple "Presentation of Jesus at the Temple"). Fruit of the Mystery: Gift of Wisdom and Purity of mind and body (Obedience).
+5. [The Finding of Jesus in the Temple](https://en.wikipedia.org/wiki/Finding_in_the_Temple "Finding in the Temple"). Fruit of the Mystery: True Conversion (Piety, Joy of Finding Jesus).
+##### Luminous Mysteries
+1. [The Baptism of Jesus in the Jordan](https://en.wikipedia.org/wiki/Baptism_of_Jesus_in_the_Jordan "Baptism of Jesus in the Jordan"). Fruit of the Mystery: Openness to the Holy Spirit, the Healer.
+2. [The Wedding at Cana](https://en.wikipedia.org/wiki/Marriage_at_Cana "Marriage at Cana"). Fruit of the Mystery: To Jesus through Mary, Understanding of the ability to manifest-through faith.
+3. [Jesus' Proclamation of the Kingdom of God](https://en.wikipedia.org/wiki/Kingdom_of_God "Kingdom of God"). Fruit of the Mystery: Trust in God (Call of Conversion to God).
+4. [The Transfiguration](https://en.wikipedia.org/wiki/Transfiguration_of_Jesus "Transfiguration of Jesus"). Fruit of the Mystery: Desire for Holiness.
+5. [The Institution of the Eucharist](https://en.wikipedia.org/wiki/Last_Supper "Last Supper"). Fruit of the Mystery: Adoration.
+##### Sorrowful Mysteries
+1. [The Agony in the Garden](https://en.wikipedia.org/wiki/Agony_in_the_Garden "Agony in the Garden"). Fruit of the Mystery: Sorrow for Sin, Uniformity with the Will of God.
+2. [The Scourging at the Pillar](https://en.wikipedia.org/wiki/Flagellation_of_Christ "Flagellation of Christ"). Fruit of the Mystery: Mortification (Purity).
+3. [The Crowning with Thorns](https://en.wikipedia.org/wiki/Crown_of_Thorns "Crown of Thorns"). Fruit of the Mystery: Contempt of the World (Moral Courage).
+4. [The Carrying of the Cross](https://en.wikipedia.org/wiki/Christ_Carrying_the_Cross "Christ Carrying the Cross"). Fruit of the Mystery: Patience.
+5. [The Crucifixion and Death of our Lord](https://en.wikipedia.org/wiki/Crucifixion_of_Jesus "Crucifixion of Jesus"). Fruit of the Mystery: Perseverance in Faith, Grace for a Holy Death, Forgiveness.
+##### Glorious Mysteries
+1. [The Resurrection](https://en.wikipedia.org/wiki/Resurrection_of_Jesus "Resurrection of Jesus"). Fruit of the Mystery: Faith.
+2. [The Ascension](https://en.wikipedia.org/wiki/Ascension_of_Jesus "Ascension of Jesus"). Fruit of the Mystery: Hope, Desire to Ascend to Heaven.
+3. [The Descent of the Holy Spirit](https://en.wikipedia.org/wiki/Pentecost "Pentecost"). Fruit of the Mystery: Love of God, Holy Wisdom to know the truth and share it with everyone, Divine Charity, Worship of the Holy Spirit.
+4. [The Assumption of Mary](https://en.wikipedia.org/wiki/Assumption_of_Mary "Assumption of Mary"). Fruit of the Mystery: Union with Mary and True Devotion to Mary.
+5. [The Coronation of the Virgin](https://en.wikipedia.org/wiki/Coronation_of_the_Virgin "Coronation of the Virgin"). Fruit of the Mystery: Perseverance and an Increase in Virtue (Trust in Mary's Intercession).
+## Feedback
+[Feedback and feature requests](https://github.com/Squigglbunny/obsidian-rosary/discussions) much appreciated!
 
-- Check if [someone already developed a plugin for what you want](https://obsidian.md/plugins)! There might be an existing plugin similar enough that you can partner up with.
-- Make a copy of this repo as a template with the "Use this template" button (login to GitHub if you don't see it).
-- Clone your repo to a local development folder. For convenience, you can place this folder in your `.obsidian/plugins/your-plugin-name` folder.
-- Install NodeJS, then run `npm i` in the command line under your repo folder.
-- Run `npm run dev` to compile your plugin from `src/main.ts` to `main.js`.
-- Make changes to `src/main.ts` (or create new `.ts` files). Those changes should be automatically compiled into `main.js`.
-- Reload Obsidian to load the new version of your plugin.
-- Enable plugin in settings window.
-- For updates to the Obsidian API run `npm update` in the command line under your repo folder.
-
-## Releasing new releases
-
-- Update your `manifest.json` with your new version number, such as `1.0.1`, and the minimum Obsidian version required for your latest release.
-- Update your `versions.json` file with `"new-plugin-version": "minimum-obsidian-version"` so older versions of Obsidian can download an older version of your plugin that's compatible.
-- Create new GitHub release using your new version number as the "Tag version". Use the exact version number, don't include a prefix `v`. See here for an example: https://github.com/obsidianmd/obsidian-sample-plugin/releases
-- Upload the files `manifest.json`, `main.js`, `styles.css` as binary attachments. Note: The manifest.json file must be in two places, first the root path of your repository and also in the release.
-- Publish the release.
-
-> You can simplify the version bump process by running `npm version patch`, `npm version minor` or `npm version major` after updating `minAppVersion` manually in `manifest.json`.
-> The command will bump version in `manifest.json` and `package.json`, and add the entry for the new version to `versions.json`
-
-## Adding your plugin to the community plugin list
-
-- Check the [plugin guidelines](https://docs.obsidian.md/Plugins/Releasing/Plugin+guidelines).
-- Publish an initial version.
-- Make sure you have a `README.md` file in the root of your repo.
-- Make a pull request at https://github.com/obsidianmd/obsidian-releases to add your plugin.
-
-## How to use
-
-- Clone this repo.
-- Make sure your NodeJS is at least v18 (`node --version`).
-- `npm i` to install dependencies.
-- `npm run dev` to start compilation in watch mode.
-
-## Manually installing the plugin
-
-- Copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/your-plugin-id/`.
-
-## Improve code quality with eslint
-
-- [ESLint](https://eslint.org/) is a tool that analyzes your code to quickly find problems. You can run ESLint against your plugin to find common bugs and ways to improve your code.
-- This project already has eslint preconfigured, you can invoke a check by running`npm run lint`
-- Together with a custom eslint [plugin](https://github.com/obsidianmd/eslint-plugin) for Obsidan specific code guidelines.
-- A GitHub action is preconfigured to automatically lint every commit on all branches.
-
-## Funding URL
-
-You can include funding URLs where people who use your plugin can financially support it.
-
-The simple way is to set the `fundingUrl` field to your link in your `manifest.json` file:
-
-```json
-{
-	"fundingUrl": "https://buymeacoffee.com"
-}
-```
-
-If you have multiple URLs, you can also do:
-
-```json
-{
-	"fundingUrl": {
-		"Buy Me a Coffee": "https://buymeacoffee.com",
-		"GitHub Sponsor": "https://github.com/sponsors",
-		"Patreon": "https://www.patreon.com/"
-	}
-}
-```
-
-## API Documentation
-
-See https://docs.obsidian.md
+Claude helped in the making of this plugin.
