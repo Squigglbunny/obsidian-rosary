@@ -1,7 +1,7 @@
 {
-	"id": "daily-rosary",
+	"id": "rosary",
 	"name": "Daily Rosary",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "1.6.6",
 	"description": "Opens Today's Rosary.",
 	"author": "Squigglbunny",

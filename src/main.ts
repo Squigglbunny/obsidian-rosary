@@ -73,7 +73,7 @@ export default class RosaryPlugin extends Plugin {
 
 		// Command (so you can bind a hotkey, or run via command palette)
 		this.addCommand({
-			id: 'open-todays-rosary',
+			id: 'open-todays',
 			name: "Open today's rosary",
 			callback: () => this.openTodaysRosary(),
 		});
