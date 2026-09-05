@@ -11,8 +11,8 @@ import {
 } from 'obsidian';
 import {
 	DEFAULT_SETTINGS,
-	MyPluginSettings,
-	SampleSettingTab,
+	DailyRosarySettings,
+	DailyRosarySettingTab,
 } from './settings';
 import { getLiturgicalSeason } from './liturgical';
 import { MysteryType } from './settings';
@@ -25,13 +25,13 @@ const MYSTERY_FILE: Record<MysteryType, string> = {
 	luminous: 'The Luminous Mysteries.md',
 };
 
-function getMysteryPath(settings: MyPluginSettings, mystery: MysteryType): string {
+function getMysteryPath(settings: DailyRosarySettings, mystery: MysteryType): string {
 	const folder = settings.mysteryFolder.trim().replace(/\/+$/, ''); // strip trailing slash(es)
 	const filename = MYSTERY_FILE[mystery];
 	return normalizePath(folder ? `${folder}/${filename}` : filename);
 }
 
-function getTodaysMystery(settings: MyPluginSettings): MysteryType {
+function getTodaysMystery(settings: DailyRosarySettings): MysteryType {
 	const day = new Date().getDay(); // 0 = Sunday
 
 	switch (day) {
@@ -57,7 +57,7 @@ function getTodaysMystery(settings: MyPluginSettings): MysteryType {
 // Remember to rename these classes and interfaces!
 
 export default class RosaryPlugin extends Plugin {
-	settings!: MyPluginSettings;
+	settings!: DailyRosarySettings;
 
 	async onload() {
 		await this.loadSettings();
@@ -65,8 +65,7 @@ export default class RosaryPlugin extends Plugin {
 		// add custom svg icon
 		addIcon('rosary_old', '<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a2 2 0 0 1-2-2m4 0a2 2 0 0 1-2 2m-2-9a2 2 0 0 1 2-2m-2 6a2 2 0 0 1-2-2m2 5v-3m2-6a2 2 0 0 1 2 2m0 0a2 2 0 0 1 2 2m-2 2v3m2-5a2 2 0 0 1-2 2m-6-2a2 2 0 0 1 2-2"/><circle cx="12" cy="8.5" r="2"/><circle cx="16" cy="7" r="2"/><circle cx="19" cy="4" r="2"/><circle cx="5" cy="4" r="2"/><circle cx="8" cy="7" r="2"/></svg>')
 		addIcon('rosary','<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 11.5a2 2 0 0 1 4 0m-4 1v-1m0 1H9m1 4H9m1 3.5v-3.5m4-5v1m0 0h1m-1 4V20m0 0a2 2 0 0 1-4 0m5-7.5a2 2 0 0 1 0 4m0 0h-1m6.5-13.823A2 2 0 1 1 17.264 3M6.737 3A2 2 0 1 1 3.5 2.675M9 16.5a2 2 0 0 1 0-4"/><circle cx="12" cy="7.5" r="2"/><circle cx="16" cy="6.5" r="2"/><circle cx="8" cy="6.5" r="2"/></svg>')
-		// modified from < a href = "https://www.flaticon.com/free-icons/catholic" title = "catholic icons" > Catholic icons created by Magnific - Flaticon < /a>
-
+		
 		// This creates an icon in the left ribbon.
 		this.addRibbonIcon('rosary', "Open today's rosary", () => {
 			this.openTodaysRosary();
@@ -79,28 +78,9 @@ export default class RosaryPlugin extends Plugin {
 			callback: () => this.openTodaysRosary(),
 		});
 
-
-		// This adds a status bar item to the bottom of the app. Does not work on mobile apps.
-		// const statusBarItemEl = this.addStatusBarItem();
-		// statusBarItemEl.setText('Status bar text');
-
-		// This adds a simple command that can be triggered anywhere (maybe add command to choose which mysteries?)
-		// this.addCommand({
-		// 	id: 'open-modal-simple',
-		// 	name: 'Open modal (simple)',
-		// 	callback: () => {
-		// 		new SampleModal(this.app).open();
-		// 	},
-		// });
-		
-
 		// This adds a settings tab so the user can configure various aspects of the plugin
-		this.addSettingTab(new SampleSettingTab(this.app, this));
+		this.addSettingTab(new DailyRosarySettingTab(this.app, this));
 
-		// When registering intervals, this function will automatically clear the interval when the plugin is disabled.
-		//this.registerInterval(
-		//	window.setInterval(() => console.log('setInterval'), 5 * 60 * 1000),
-		//);
 	}
 	
 	async openTodaysRosary() {
@@ -122,7 +102,7 @@ export default class RosaryPlugin extends Plugin {
 		this.settings = Object.assign(
 			{},
 			DEFAULT_SETTINGS,
-			(await this.loadData()) as Partial<MyPluginSettings>,
+			(await this.loadData()) as Partial<DailyRosarySettings>,
 		);
 	}
 

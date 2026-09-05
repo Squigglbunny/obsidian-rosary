@@ -3,7 +3,7 @@ import MyPlugin from './main';
 export type MysteryType = 'joyful' | 'sorrowful' | 'glorious' | 'luminous';
 export type SundayMode = 'auto' | 'manual';
 
-export interface MyPluginSettings {
+export interface DailyRosarySettings {
 	// ...your existing fields...
 	mysteryFolder: string;              // vault-relative folder containing the mystery files
 	thursdayMystery: MysteryType;       // Luminous is common practice; Joyful is traditional
@@ -12,7 +12,7 @@ export interface MyPluginSettings {
 	mySetting: string;
 }
 
-export const DEFAULT_SETTINGS: MyPluginSettings = {
+export const DEFAULT_SETTINGS: DailyRosarySettings = {
 	// ...your existing defaults...
 	mysteryFolder: 'Jesus Christ/Prayer',
 	thursdayMystery: 'luminous',
@@ -47,7 +47,7 @@ class FolderSuggest extends AbstractInputSuggest<TFolder> {
 	}
 }
 
-export class SampleSettingTab extends PluginSettingTab {
+export class DailyRosarySettingTab extends PluginSettingTab {
 	plugin: MyPlugin;
 
 	constructor(app: App, plugin: MyPlugin) {
