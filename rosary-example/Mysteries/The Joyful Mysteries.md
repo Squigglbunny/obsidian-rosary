@@ -157,5 +157,3 @@ Make the _**Sign of the Cross**_.
 [[Prayer to Saint Joseph]]
 
 [[People To Pray For]]
-
-[[How to Pray the Rosary]]

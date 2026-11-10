@@ -161,5 +161,3 @@ Make the _**Sign of the Cross**_.
 [[Litany of The Blessed Virgin Mary]]
 [[St Michael Prayer]]
 [[Prayer to Saint Joseph]]
-
-[[How to Pray the Rosary]]
